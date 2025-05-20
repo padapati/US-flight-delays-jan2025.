@@ -40,12 +40,8 @@ The interactive Tableau dashboard I built allows users to explore these trends i
 Overall, this analysis shows the value of using data to drive better decisions in air traffic management and improve the passenger experience.
 
 📁 Project Structure
-├── data/
-│   └── jan2025_flight_data.csv
-├── notebooks/
-│   └── flight_delay_analysis.ipynb
-├── visuals/
-│   └── dashboard_screenshot.png
-├── dashboard/
-│   └── flight_delays_tableau.twb
-├── README.md
+DATA - jan2025_flight_data.csv
+NOTEBOOK - flight_delay_analysis.ipynb
+DASHBOARD - flight_delays_tableau.twb
+
+
