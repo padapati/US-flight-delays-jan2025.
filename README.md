@@ -1,6 +1,7 @@
  ✈️ US Flight Delays Dashboard – Tableau Analysis (January 2025)
 
-<img width="1470" alt="Screenshot 2025-05-20 at 20 21 39" src="https://github.com/user-attachments/assets/19dd6d54-1317-40c5-be1a-475dc6aea218" />
+![Insights](https://github.com/user-attachments/assets/cf016649-ceb6-434e-8377-304850a4bd1b)
+
 
 This project is an interactive Tableau dashboard that analyzes flight delays across U.S. airports using FAA flight data from January 2025. The goal is to uncover patterns in delays, identify top-contributing airports, and understand the reasons behind delayed flights.
 
