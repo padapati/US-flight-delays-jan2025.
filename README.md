@@ -30,7 +30,6 @@ A treemap comparing predicted vs. actual delays
 Additional visual insights like top airports by total delay
 
 Conclusion
-
 This project revealed meaningful insights into the causes and patterns of flight delays across major U.S. airports during January 2025. A few key takeaways include:
 I identified the airports most responsible for delays, pointing to where operational improvements could have the greatest impact.
 Carrier-related and weather delays were the most common, particularly at major hub airports.
